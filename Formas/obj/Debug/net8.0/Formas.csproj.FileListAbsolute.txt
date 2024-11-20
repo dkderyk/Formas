@@ -1,0 +1,14 @@
+C:\Users\deryk\source\repos\Fomas\Fomas\obj\Debug\net8.0\Formas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deryk\source\repos\Fomas\Fomas\obj\Debug\net8.0\Formas.AssemblyInfoInputs.cache
+C:\Users\deryk\source\repos\Fomas\Fomas\obj\Debug\net8.0\Formas.AssemblyInfo.cs
+C:\Users\deryk\source\repos\Fomas\Fomas\obj\Debug\net8.0\Formas.csproj.CoreCompileInputs.cache
+C:\Users\deryk\source\repos\Fomas\Fomas\bin\Debug\net8.0\Formas.exe
+C:\Users\deryk\source\repos\Fomas\Fomas\bin\Debug\net8.0\Formas.deps.json
+C:\Users\deryk\source\repos\Fomas\Fomas\bin\Debug\net8.0\Formas.runtimeconfig.json
+C:\Users\deryk\source\repos\Fomas\Fomas\bin\Debug\net8.0\Formas.dll
+C:\Users\deryk\source\repos\Fomas\Fomas\bin\Debug\net8.0\Formas.pdb
+C:\Users\deryk\source\repos\Fomas\Fomas\obj\Debug\net8.0\Formas.dll
+C:\Users\deryk\source\repos\Fomas\Fomas\obj\Debug\net8.0\refint\Formas.dll
+C:\Users\deryk\source\repos\Fomas\Fomas\obj\Debug\net8.0\Formas.pdb
+C:\Users\deryk\source\repos\Fomas\Fomas\obj\Debug\net8.0\Formas.genruntimeconfig.cache
+C:\Users\deryk\source\repos\Fomas\Fomas\obj\Debug\net8.0\ref\Formas.dll
